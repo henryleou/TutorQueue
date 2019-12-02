@@ -5,6 +5,8 @@
 	- Tutors
 - Courses
 - Room
+	- Building Name
+	- Room No.
 - Queue
 	- Student
 	- Assignment No.
